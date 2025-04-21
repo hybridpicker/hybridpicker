@@ -43,7 +43,7 @@
 
 ## 📫 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lukas-schönsgibl)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lukas-schoensgibl)
 - ✉️ Email: lukas@schoensgibl.com
 - 🌐 Website: https://schoensgibl.com
 
