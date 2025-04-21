@@ -45,6 +45,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lukas-schönsgibl)
 - ✉️ Email: lukas@schoensgibl.com
-- 🌐 More coming soon: ResearchGate, Medium, Blog...
+- 🌐 Website: https://schoensgibl.com
 
 ---
