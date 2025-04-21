@@ -14,7 +14,6 @@
 
 - 🎵 [LibreMetronome](https://libremetronome.com): An open-source metronome app with progressive learning modes like **Grid**, **Circle**, and **MultiCircle**.
 - 🎸 [Guitar-Positions.org](https://guitar-positions.org): A tool to visualize voicings and understand guitar fretboard geometry.
-- 🤖 Guitar Assistant (prototype): AI-driven support for improvisation, analyzing chords, timing, and note choices in real-time.
 
 ---
 
@@ -49,5 +48,3 @@
 - 🌐 More coming soon: ResearchGate, Medium, Blog...
 
 ---
-
-> _“Code is poetry, and music is structured freedom – I work where both worlds meet.”_
